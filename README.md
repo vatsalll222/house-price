@@ -115,7 +115,15 @@ This file can be loaded later for predictions without retraining.
 
 Vatsal
 
-GitHub: https://github.com/vatsalll222
+## Live Demo
+
+[🔗 Try the App](https://house-price-prediction-vatsal.streamlit.app/)
+
+## Source Code
+
+[📂 GitHub Repository](https://github.com/vatsalll222/house-price)
+
+
 
 ```
 ```
